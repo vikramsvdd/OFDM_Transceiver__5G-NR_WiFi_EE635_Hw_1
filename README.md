@@ -4,7 +4,7 @@
 The ofdm_schmidl_cox.m simulates an optimized Schmidl-Cox synchronization algorithm for an OFDM (Orthogonal Frequency-Division Multiplexing) transceiver system. It demonstrates time and frequency synchronization in the presence of noise and carrier frequency offset. The Schiml-Cox model motivated synchronization in 5GNR and WiFi. 
 Features
 
-Simulates a 64-subcarrier OFDM system with 10 MHz bandwidth
+Simulates a 64-subcarrier OFDM system with 1 MHz bandwidth
 Implements Schmidl-Cox synchronization algorithm
 Handles timing offset and carrier frequency offset
 Performs both coarse and fine frequency synchronization
