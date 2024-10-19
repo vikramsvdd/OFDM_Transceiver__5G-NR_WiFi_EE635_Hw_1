@@ -11,8 +11,8 @@ Performs both coarse and fine frequency synchronization
 Includes AWGN (Additive White Gaussian Noise) channel simulation
 Generates visualizations for autocorrelation function and timing error CDF
 
-## OFDM Transceiver with Walsh Haddamard Transform
-This ofdm_haddamard.m simulates a simplified OFDM (Orthogonal Frequency-Division Multiplexing) system using Hadamard transform. It demonstrates the basic principles of OFDM transmission, including modulation, channel effects, and demodulation, while using Hadamard transform instead of the traditional Fourier transform.
+## OFDM Transceiver with Walsh Hadamard Transform
+This ofdm_hadamard.m simulates a simplified OFDM (Orthogonal Frequency-Division Multiplexing) system using Hadamard transform. It demonstrates the basic principles of OFDM transmission, including modulation, channel effects, and demodulation, while using Hadamard transform instead of just the traditional traditional Fourier transform.
 Features
 
 BPSK modulation
