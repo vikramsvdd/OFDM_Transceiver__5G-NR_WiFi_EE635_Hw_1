@@ -4,8 +4,8 @@ clear all;
 % System parameters
 num_subcarriers = 8;           % Number of subcarriers
 cyclic_prefix_length = 4;      % Length of cyclic prefix
-noise_variance = 0.1;          % Noise variance
-num_simulations = 1000;        % Number of Monte Carlo simulations
+noise_variance = 0.2;          % Noise variance
+num_simulations = 500;        % Number of Monte Carlo simulations
 
 % Channel impulse response
 channel_impulse_response = [0.5 + 0.2j, -0.6 + 0.1j, 0.2 - 0.25j].';
